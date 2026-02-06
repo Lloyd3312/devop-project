@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/new')
 def new():
-    return "Hello World is Awesome"
+    return "Hello World I'm running my project CI"
 
 
 
