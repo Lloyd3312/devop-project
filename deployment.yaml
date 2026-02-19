@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: lloyd03/my-flask-app:2026-02-13-204700
+        image: lloyd03/my-flask-app:2026-02-19-201454
 
         ports:
         - containerPort: 5000
